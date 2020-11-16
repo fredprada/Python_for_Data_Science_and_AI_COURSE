@@ -1,1 +1,1 @@
-# Python_for_Data_Science_and_AI_COURSE
+# Python_for_Data_Science_and_AI_COURSE_notes
